@@ -1,0 +1,3 @@
+C:\Users\Aleksander\Downloads\template-project-2\template-project-2\x64\Debug\szablon2vs19.exe
+C:\Users\Aleksander\OneDrive\Dokumenty\Big Data III sem\SpyHunter\2 wersja\template-project-2\x64\Debug\szablon2vs19.exe
+C:\Users\Aleksander\OneDrive\Dokumenty\Data Engineering III sem\SpyHunter\2 wersja\template-project-2\x64\Debug\szablon2vs19.exe
